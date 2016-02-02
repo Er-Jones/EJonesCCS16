@@ -1,3 +1,3 @@
-Erica Jones CC Git
+#Erica Jones Git CC
 Spring 2016
-ecj220
+
