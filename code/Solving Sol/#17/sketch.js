@@ -3,26 +3,28 @@ function setup() {
 }
 
 function draw() {
+  var rectHeight=50;
+  var lineOne=175
   background(255,210,210);
-  rect(25,50,100,300);
+  rect(25,rectHeight,100,300);
   //set a fill color
   fill(255,210,210);
-  rect(175,50,100,300);
+  rect(lineOne,rectHeight,100,300);
   //set a fill color
   fill(255,210,210);
-  rect(325,50,100,300);
+  rect(325,rectHeight,100,300);
   //set a fill color
   fill(255,210,210);
-  rect(475,50,100,300);
-  line(50,50,50,350);
-  line(75,50,75,350);
-  line(100,50,100,350);
-  line(175,100,275,100);
-  line(175,150,275,150);
-  line(175,200,275,200);
-  line(175,250,275,250);
-  line(175,300,275,300);
-  line(375,50,325,100);
+  rect(475,rectHeight,100,300);
+  line(rectHeight,rectHeight,rectHeight,350);
+  line(75,rectHeight,75,350);
+  line(100,rectHeight,100,350);
+  line(lineOne,100,275,100);
+  line(lineOne,150,275,150);
+  line(lineOne,200,275,200);
+  line(lineOne,250,275,250);
+  line(lineOne,300,275,300);
+  line(375,rectHeight,325,100);
   line(425,85,325,185);
   line(425,175,325,270);
   line(425,265,325,350);
