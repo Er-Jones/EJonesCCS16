@@ -1,4 +1,3 @@
-# EJonesCCS16
-# EJonesCCS16
-# EJonesCCS16
-# EJonesCCS16
+Erica Jones CC Git
+Spring 2016
+ecj220
