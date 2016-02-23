@@ -31,7 +31,7 @@ vertex(150,75);
 vertex (150,164);
 endShape(); 
  
-beginShape ();//nostrol 1
+beginShape ();//nostril 1
 curveVertex (164,170);
 curveVertex (164,170);
 curveVertex (168,166);
@@ -40,7 +40,7 @@ curveVertex (172,166);
 curveVertex (172,166);
 endShape ();
  
-beginShape ();//nostrol 2
+beginShape ();//nostril 2
 curveVertex (136,170);
 curveVertex (136,170);
 curveVertex (132,166);
