@@ -31,10 +31,12 @@ function draw() {
   vertex(0,175);
   endShape();
    
+   
   head (mouseX-5, mouseY-5, 10*mouseX/100, 20*mouseY/150);
    torso (mouseX-5, mouseY+5);
    legs (mouseX-3,mouseY+30);
    feet(mouseX-5,mouseY+54,8,5);
+   
   
 
    function head (x, y, headW, headH){
