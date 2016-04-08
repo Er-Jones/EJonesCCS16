@@ -66,7 +66,7 @@ function setup() {
         lexicon.randomWord(" nn ")+
         ", which would be fit for the "+
         lexicon.randomWord(" nn ")+
-        " of a queen. "
+        " of a queen. ";
         
         //background(random(250),random(100),random(100));
         background(Lm);
